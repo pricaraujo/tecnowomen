@@ -4,8 +4,7 @@ body {
   background-image: url("rm218batch6-mynt-26.jpg");
   background-repeat: no-repeat;
   font-family: "Poppins";
-  color: whitesmoke;
-  text-shadow: 0.1em 0.1em 0.1em rgb(141, 49, 145);
+  color: #953ca7;
 }
  /* Add a black background color to the top navigation */
  .topnav {
