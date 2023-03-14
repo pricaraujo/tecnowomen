@@ -46,7 +46,7 @@ function dicionarioVagas() {
         "</p>" +
         '<p><button class="button">' +
 
-        "Ver vaga"
+        "Quero Contratá-la"
 
         "</button></p>"+
         
