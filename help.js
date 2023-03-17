@@ -1,16 +1,16 @@
 function dicionarioAjuda() {
         var questions = {
             q1: {
-                question: "Como faço para adicionar uma vaga?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar no formulário a "
+                question: "Como faço para adicionar uma vaga?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar um formulário para a vaga do interesse da sua empresa. "
             },
             q2: {
-                question: "Como faço para adicionar uma vaga?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar no formulário a "
+                question: "Como faço para adicionar uma vaga?", answear: "Para se candidatar a uma vaga vocẽ deve estar fora do perfil de empresa e deve buscar na página 'Vagas Disponíveis' a vaga do seu interesse!"
             },
             q3: {
-                question: "Como faço para me cadastrar?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar no formulário a "
+                question: "Como faço para fazer login?", answear: "Para fazer login você deve colocar seu usuário e senha, caso sua conta seja de empresa vocẽ será redirecionada a um perfil de empresa. "
             },
             q4: {
-                question: "Onde vejo as empresas que sigo?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar no formulário a "
+                question: "Onde vejo as empresas que sigo?", answear: "Você pode visualizar os perfis de empresas do seu interesse atravês da página 'Acompanhe quem você segue'. "
             }
         };
         var cont = document.getElementById("cont");
@@ -35,11 +35,8 @@ function dicionarioAjuda() {
     
     for (i = 0; i < acc.length; i++) {
       acc[i].addEventListener("click", function() {
-        /* Toggle between adding and removing the "active" class,
-        to highlight the button that controls the panel */
         this.classList.toggle("active");
     
-        /* Toggle between hiding and showing the active panel */
         var panel = this.nextElementSibling;
         if (panel.style.display === "block") {
           panel.style.display = "none";
