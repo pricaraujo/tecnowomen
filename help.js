@@ -4,7 +4,7 @@ function dicionarioAjuda() {
                 question: "Como faço para adicionar uma vaga?", answear: "Para adicionar uma vaga você deve estar em um perfil de empresa e criar um formulário para a vaga do interesse da sua empresa. "
             },
             q2: {
-                question: "Como faço para adicionar uma vaga?", answear: "Para se candidatar a uma vaga vocẽ deve estar fora do perfil de empresa e deve buscar na página 'Vagas Disponíveis' a vaga do seu interesse!"
+                question: "Como faço para adicionar uma vaga?", answear: "Para se candidatar a uma vaga você deve estar fora do perfil de empresa e deve buscar na página 'Vagas Disponíveis' a vaga do seu interesse!"
             },
             q3: {
                 question: "Como faço para fazer login?", answear: "Para fazer login você deve colocar seu usuário e senha, caso sua conta seja de empresa vocẽ será redirecionada a um perfil de empresa. "
