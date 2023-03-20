@@ -1,5 +1,7 @@
 # Tecnowomen
 Tecnowomen é um site idealizado e realizado por Priscila Conceição Araújo, este site tem como objetivo encurtar o caminho entre as mulheres da área de tecnologia e as oportunidades de emprego!
+O projeto pode ser visualizado no GitHub Pages em: https://pricaraujo.github.io/tecnowomen/
+
 <h1> Sobre o Projeto </h1>
 
 <h2>Idealização</h2>
